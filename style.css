@@ -1,7 +1,7 @@
 
     body{
       font-family: sans-serif;
-      background-color: black;
+      background-color: ;
     }
 
     .topnav {
@@ -28,6 +28,6 @@
       color: white;
     }
 
-.nothing-movies-here {
-  color: white;
+    .nothing-movies-here {
+    color: white;
 }
